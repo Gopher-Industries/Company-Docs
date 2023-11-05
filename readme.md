@@ -35,7 +35,7 @@ If you're new to Git and GitHub, here are some resources to help you get started
 - Trello lead: Lachlan Vass
 - Project leads:
     - **Nutrihelp**: (TBD)
-    - **Guardian**: (TBD)
+    - **Guardian**: Lachlan Vass
     - **Food Remedy API**: Jyhe Mark
 
 ## Quick links:
