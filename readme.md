@@ -30,11 +30,11 @@ If you're new to Git and GitHub, here are some resources to help you get started
     - **SIT374/SIT764**: Prof. Lennon Chang
 - Gopher Industries Acting Director: Bahareh Nakisa
 - Git leads:
-    - 
+    - TBD
 - Project leads:
-    - **Nutrihelp**: 
-    - **Guardian**: 
-    - **Food Remedy API**:
+    - **Nutrihelp**: TBD
+    - **Guardian**: TBD
+    - **Food Remedy API**: TBD
 
 ## Quick links:
 ### Company Vision and Policies
