@@ -30,13 +30,11 @@ If you're new to Git and GitHub, here are some resources to help you get started
     - **SIT374/SIT764**: Prof. Lennon Chang
 - Gopher Industries Acting Director: Bahareh Nakisa
 - Git leads:
-    - Jyhe Mark
-    - (TBD)
-- Trello lead: Lachlan Vass
+    - 
 - Project leads:
-    - **Nutrihelp**: (TBD)
-    - **Guardian**: Lachlan Vass
-    - **Food Remedy API**: Jyhe Mark
+    - **Nutrihelp**: 
+    - **Guardian**: 
+    - **Food Remedy API**:
 
 ## Quick links:
 ### Company Vision and Policies
