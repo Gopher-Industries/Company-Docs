@@ -67,4 +67,10 @@ Logging also plays an important role in forensic analysis, and logs can help in 
 
 - Recommendation 1: Tools like Prometheus ensure that any unusual changes in logging patterns are identified and flagged for immediate response.
 
+## References
 
+[1] [Data Encryption at Rest](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/security/transparent-data-encryption)
+
+[2][5 Best Vulnerability Scan Tools](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/security/transparent-data-encryption)
+
+[3] [Kubernetes Security Basics and 10 Essential Best Practices](https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/)
